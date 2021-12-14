@@ -75,3 +75,14 @@ h3 {
         font-size: 11px;
     }
 }
+
+@media (max-width:736px) {
+    li {
+        font-size: 21px;
+    }
+
+    .descricao {
+        padding-bottom: 1%;
+        font-size: 12px;
+    }
+}
