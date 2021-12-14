@@ -1,0 +1,24 @@
+.titulo {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+    margin-bottom: 9%;
+    height: 250px;
+}
+
+img {
+    width: 30%;
+}
+
+@media (max-width:760px) {
+    img {
+        width: 65%;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+}
