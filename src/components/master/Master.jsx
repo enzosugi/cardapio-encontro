@@ -5,12 +5,16 @@ import Header from '../header/Header'
 import Footer from '../footer/Footer'
 
 
+
 export default function Master() {
     return(
-        <div>
-            <Header/>
-            <Corpo/>
-            <Footer/>
+
+        <div className="fundo">
+            <div>
+                <Header/>
+                <Corpo/>
+                <Footer/>
+            </div>
         </div>
     )
 }

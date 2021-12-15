@@ -1,5 +1,10 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: rgb(255, 243, 128);
+    
+}
+
+.fundo {
+    background-color: rgb(114, 47, 55)
+    
 }

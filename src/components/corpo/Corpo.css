@@ -4,6 +4,7 @@
     width: 100%;
     justify-content: center;
     flex-wrap: wrap;
+    color: black;
 }
 
 li {
@@ -12,6 +13,7 @@ li {
     font-style: oblique;
     font-size: 15px;
     padding: 3px;
+    
 }
 
 h3 {
